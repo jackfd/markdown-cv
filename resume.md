@@ -1,10 +1,9 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+   jiezhang.fd@email.com <br> 手机: +86 18516231031 <br> Nationality: Chinese
 </span>
 
-# Casualwriter  
+# 张杰
 
 ## Executive Summary
 
